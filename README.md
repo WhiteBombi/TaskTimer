@@ -1,6 +1,8 @@
 # TaskTimer
 ### A task tracker module to keep track of time spent in various tasks
 
+![Image](docs/Example.png "TaskTimer in action")
+
 ## Use case
 This module is used to track time spent on various tasks and make a simple report into a .csv file. At the current state it is run in a Jupyter notebook environment, but it can be used in any Python 3 environment.
 
